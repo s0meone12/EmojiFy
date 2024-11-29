@@ -1,0 +1,9 @@
+tk
+matplotlib
+pandas
+sklearn
+tensorflow
+opencv-python
+Pillow
+numpy
+pyautogui
